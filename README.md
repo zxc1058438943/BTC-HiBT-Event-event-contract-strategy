@@ -1,4 +1,4 @@
-<img width="1220" height="21806" alt="image" src="https://github.com/user-attachments/assets/7216da64-bd0d-4412-b090-a088b8c7018e" />BTC 短周期事件合约分析与实时监控系统
+BTC 短周期事件合约分析与实时监控系统
 这是一款专注于 BTC 短周期事件合约的专业分析与监控软件，旨在为事件合约交易者提供更直观、系统化的行情观察、信号监控和交易结果统计工具。
 <img width="1800" height="898" alt="image" src="https://github.com/user-attachments/assets/83f908bd-c563-43f7-af3d-89011acc9ca9" />
 
