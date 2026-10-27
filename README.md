@@ -18,4 +18,4 @@ Image
 <img width="1220" height="21806" alt="Screenshot_2026-10-25-16-08-20-713_com hb global" src="https://github.com/user-attachments/assets/d944ad2e-5499-4595-92f9-83138c347776" />
 
 
-详情联系Discord: chuleibacui6658
+详情联系qq 3199810008
